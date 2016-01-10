@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Confluence</div>
+                <div class="title">Hello POGI</div>
                 <div class="search">
                     <input type="text" name="search"/>
                 </div>
