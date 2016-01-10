@@ -38,7 +38,7 @@
     <body>
         <div class="container">
             <div class="content">
-                <div class="title">Hello POGI</div>
+                <div class="title">OOOH JAY JAY SEXY SEXY MO</div>
                 <div class="search">
                     <input type="text" name="search"/>
                 </div>
